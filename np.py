@@ -40,16 +40,3 @@ print("Slice from index 1 to 4:", arr[1:5])
 
 
 
-/*  Array creation
-
-Reshaping
-
-Basic math
-
-Stats (mean, std, max)
-
-Random values
-
-Indexing and slicing
-*/
-
